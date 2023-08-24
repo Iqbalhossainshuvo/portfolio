@@ -10,12 +10,10 @@ const Left = () => {
     <motion.div variants={fadeTop} {...motionStep} className="col-span-3">
       <div className="space-y-4 mt-7 text-slate-400">
         <p>
-          Greetings, <br />I am Md. Iqbal Hossain. currently focused on Full
-          stack web development. Learning and practicing React and other
-          frontend tools and technology like Redux, Material UI, Typescript etc.
-          I always ensure my skills are kept up to date within this rapidly
-          changing industry. Besides I am familiar with backend web technology
-          like Node, Express MongoDB and MySQL.
+          Greetings, <br />I am Md. Iqbal Hossain. I am a Full
+          stack web developer. Learning and practicing Python and React Native and other tools and technology.
+          I am always ensure my skills are kept up to date within this rapidly
+          changing industry.
         </p>
 
         <p>Here are a few technologies I’ve been working with recently:</p>

@@ -38,6 +38,14 @@ export const projects : ProjectTypes[] = [
         thumnail : "helppoor.png",
     },
     {
+        title : "Food Hunter",
+        description : "Food ecommerce web site. ",
+        tech : [  "TypeScript","React js","tailwind CSS","Node js" ],
+        code : 'https://github.com/Iqbalhossainshuvo/Food-Hunter',
+        live : 'https://food-hunter-fd26qa2tf-iqbalhossainshuvo.vercel.app/',
+        thumnail : "FoodHunter.jpg",
+    },
+    {
         title : "Car Website",
         description : "Old car buying and selling web site. ",
         tech : [ "React js", "tailwind CSS", "Express", "Node js" ,"Firebase","MongoDB" ],

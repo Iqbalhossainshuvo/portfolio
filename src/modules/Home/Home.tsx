@@ -4,7 +4,7 @@ import About from './sections/About'
 import GetInTouch from './sections/GetInTouch'
 import Hero from './sections/Hero'
 import Projects from './sections/Projects'
-/* import Worked from './sections/Worked' */
+ import Worked from './sections/Worked' 
 import Footer from '@widgets/Footer'
 
 
@@ -14,7 +14,7 @@ const Home = () => {
 
       <Hero />
       <About />
-      {/* <Worked /> */}
+      <Worked />
       <Projects />
       <GetInTouch />
       <Footer />
