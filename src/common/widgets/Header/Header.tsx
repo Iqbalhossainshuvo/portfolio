@@ -60,7 +60,7 @@ const Header = () => {
               <motion.a key={i}  variants={child} href={`#${e.toLocaleLowerCase()}`} ><li> {/* <span>0{i+1}.</span> */} {e} </li></motion.a>
             )}
 
-            {/* <Link href='/' target='__blank' > <Button > Resume </Button> </Link> */}
+            <a href='https://drive.google.com/file/d/1E9W4oXv0ARR1enRvRDHJ8c0Ifp1yVAM-/view?usp=sharing' target='__blank' > <Button > Resume </Button> </a>
           </motion.ul>
 
        </div>
