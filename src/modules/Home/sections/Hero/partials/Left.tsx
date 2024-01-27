@@ -25,14 +25,20 @@ const Left = () => {
                   text="Md.Iqbal Hossain." 
                />
                <AnimatedTextCharacter 
-                  className='font-medium text-3xl sm:text-4xl tracking-normal md:text-5xl text-slate-400 mt-1' 
-                  text="I build things for the web." 
+                  className='font-medium text-lg sm:text-lg tracking-normal md:text-lg text-slate-400 mt-1' 
+                  text="Full stack developer | MERN Stack Developer | Software Developer" 
+               />
+               <AnimatedTextCharacter 
+                  className='font-medium text-lg sm:text-lg tracking-normal md:text-lg text-slate-400 mt-1' 
+                  text="SEO Expert | Digital Marketer | UI UX Designer | Graphic Designer | IT Specialist" 
                />
             </div>
 
             <div className='my-5 md:my-8 leading-7 text-slate-400 md:text-lg max-w-3xl' >
                <AnimatedTextWord 
-                  text="Highly motivated and very passionate Full Stack Developer & UI UX Designer with three years of experience in  React js, Firebase, Tailwind CSS, Material UI, Node js, Express js, MongoDB, Next js, Typescript,"
+                  text="Enthusiastic and detail-oriented web developer with 5 years of experience creating and implementing 
+                  innovative web solutions. Proficient in front-end and back-end technologies, with a strong foundation in 
+                  responsive design. Adept at collaborating with clients and cross-functional teams to drive project success.,"
                />
             </div>
         </div>
